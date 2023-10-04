@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifqi Agustia</h1>
 <h3 align="center">A passionate Native Android Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfqagst" alt="rfqagst" /></a> </p>
-
 - 🌱 I’m currently learning **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
